@@ -2744,6 +2744,4 @@ var Handlebars = (function() {
 
 	return __module0__;
 })();
-/**
- * Created by vorobiov on 01.09.2014.
- */
+
