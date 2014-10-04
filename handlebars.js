@@ -25,7 +25,7 @@
  @license
  */
 /* exported Handlebars */
-var Handlebars = (function() {
+window.Handlebars = (function() {
 // handlebars/safe-string.js
 	var __module4__ = (function() {
 		"use strict";
